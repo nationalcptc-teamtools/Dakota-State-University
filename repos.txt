@@ -1,0 +1,3 @@
+https://github.com/danielmiessler/SecLists
+https://github.com/insidetrust/statistically-likely-usernames
+https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
